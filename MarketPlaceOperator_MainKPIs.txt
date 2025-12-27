@@ -1,0 +1,7 @@
+
+GMS = Gros Merchandise Value
+
+Es una métrica clave en e-commerce y marketplaces.
+
+Representa el valor total de todas las transacciones realizadas en una plataforma durante un período, antes de aplicar descuentos, devoluciones, impuestos o comisiones.
+

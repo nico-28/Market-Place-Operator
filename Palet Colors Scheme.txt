@@ -1,0 +1,36 @@
+Dashboard Colors
+
+Gris claro bordes KPI: #cccccc  | #AFCFCC
+
+Fondo: #DFF3F0
+
+Fondo KPI: #094780
+
+Color fondo de titulos: #094780
+
+Colores de linea: Violeta (#50005C)
+
+color texto: #111827
+
+color principal graficos: #2563EB
+
+
+Azul Medianoche #283F6B
+
+SOMBRA:
+Sombra: #B3C7DA (80 % opacidad, 10 px blur)
+
+SLICERS:
+FONDO: #F0F3F7
+LETRAS: #0B3C5D
+SOMBRA: #B3C7DA
+
+COLORES GRAFICOS DE BARRAS:
+#8084E8
+#216095
+#2C8CB4
+#404274
+65BF87
+
+COLOR DEL TITULO DEL DASHBOARD:
+#28689E
